@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="603e158a-f62c-4331-96fa-ee2fed240f03" name="Default Changelist" comment="一次提交">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="main" />
+              </list>
+            </value>
+          </entry>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="main/master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="I:/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="I:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1pqB7UrwpVDhb0OblFi5thXHdRy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="vsst.config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\javaCode\IMTvideoSystem\picture-detection9071\src\main\resources" />
+      <recent name="G:\javaCode\IMTvideoSystem\detection-sidecar-python9051\src\main\resources" />
+      <recent name="G:\javaCode\IMTvideoSystem\detection-sidecar-python9050\src\main\resources" />
+      <recent name="G:\javaCode\IMTvideoSystem\real-time-monitoring9070\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.realTimeMonitoring9070">
+    <configuration name="Mytest.setd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="common-api" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Mytest" />
+      <option name="METHOD_NAME" value="setd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="detection-sidecar-python9050" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="detection-sidecar-python9050" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DetectionSidecarPython9050" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="detection-sidecar-python9050" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="vsst.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="vsst.DetectionSidecarPython9050" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DetectionSidecarPython9051" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="detection-sidecar-python9051" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="vsst.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="vsst.DetectionSidecarPython9051" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PictureDetection9071Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="picture-detection9071" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="vsst.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="vsst.PictureDetection9071Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="realTimeMonitoring9070" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="real-time-monitoring9070" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="vsst.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="vsst.realTimeMonitoring9070" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.Mytest.setd" />
+      <item itemvalue="Spring Boot.DetectionSidecarPython9050" />
+      <item itemvalue="Spring Boot.DetectionSidecarPython9051" />
+      <item itemvalue="Spring Boot.PictureDetection9071Main" />
+      <item itemvalue="Spring Boot.realTimeMonitoring9070" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.realTimeMonitoring9070" />
+        <item itemvalue="Spring Boot.PictureDetection9071Main" />
+        <item itemvalue="Spring Boot.DetectionSidecarPython9050" />
+        <item itemvalue="JUnit.Mytest.setd" />
+        <item itemvalue="Spring Boot.DetectionSidecarPython9051" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\lzq\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="603e158a-f62c-4331-96fa-ee2fed240f03" name="Default Changelist" comment="" />
+      <created>1615900573912</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615900573912</updated>
+      <workItem from="1615900575111" duration="1485000" />
+      <workItem from="1615902081272" duration="2169000" />
+      <workItem from="1615942323020" duration="36748000" />
+      <workItem from="1616122641146" duration="21681000" />
+      <workItem from="1616306483051" duration="29000" />
+      <workItem from="1616390559924" duration="1208000" />
+      <workItem from="1616418066732" duration="2153000" />
+      <workItem from="1616420335541" duration="5988000" />
+      <workItem from="1616467375798" duration="87000" />
+      <workItem from="1616484019789" duration="7198000" />
+      <workItem from="1616501073980" duration="56000" />
+      <workItem from="1616594599992" duration="8377000" />
+      <workItem from="1617523928415" duration="1189000" />
+      <workItem from="1617763313210" duration="592000" />
+      <workItem from="1617765720702" duration="1252000" />
+      <workItem from="1617767002914" duration="3000" />
+      <workItem from="1618314594435" duration="1278000" />
+      <workItem from="1618543511506" duration="494000" />
+      <workItem from="1619351897862" duration="2561000" />
+      <workItem from="1621257033329" duration="826000" />
+      <workItem from="1621326371910" duration="2782000" />
+      <workItem from="1621329253113" duration="1447000" />
+      <workItem from="1621334220504" duration="1020000" />
+    </task>
+    <task id="LOCAL-00001" summary="一次提交">
+      <created>1621328330179</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1621328330179</updated>
+    </task>
+    <task id="LOCAL-00002" summary="一次提交">
+      <created>1621329537243</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1621329537243</updated>
+    </task>
+    <task id="LOCAL-00003" summary="一次提交">
+      <created>1621334286912</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1621334286912</updated>
+    </task>
+    <task id="LOCAL-00004" summary="一次提交">
+      <created>1621334670969</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1621334670969</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="一次提交" />
+  </component>
+</project>

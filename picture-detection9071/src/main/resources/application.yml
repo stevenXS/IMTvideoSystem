@@ -1,0 +1,22 @@
+server:
+  port: 9071
+  tomcat:
+    max-http-form-post-size: 20 #设置Post传输数据最大不超过20M
+
+spring:
+  application:
+    name: picture-detection
+
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 202.115.52.99:8848  #配置nacos地址
+ribbon:
+  ReadTimeout: 3000 # 建立连接所用的时间
+  ConnectTimeout: 3000 # 建立连接后从服务器读取到可用资源的所用时间。
+#management:
+#  endpoints:
+#    web:
+#      exposure:
+#        include: '*'
+

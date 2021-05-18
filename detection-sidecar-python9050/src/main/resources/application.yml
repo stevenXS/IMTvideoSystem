@@ -1,0 +1,23 @@
+server:
+  port: 9050
+
+spring:
+  application:
+    name: python-flask-dio
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 202.115.52.99:8848
+        username: nacos
+        password: nacos
+
+
+sidecar:
+  ip: 202.115.53.145
+  port: 8880
+  health-check-url: http://202.115.53.145:8880/health
+  health-check-interval: 60000
+
+
+
+

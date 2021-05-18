@@ -1,0 +1,23 @@
+server:
+  port: 9051
+
+spring:
+  application:
+    name: python-flask-bobo
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 202.115.52.99:8848
+        username: nacos
+        password: nacos
+
+
+sidecar:
+  ip: 202.115.52.99
+  port: 8892
+  health-check-url: http://202.115.52.99:8892/health
+  health-check-interval: 30000
+
+
+
+

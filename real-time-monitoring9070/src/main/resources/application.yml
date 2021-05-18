@@ -1,0 +1,14 @@
+server:
+  port: 9070
+websocket:
+  port: 9080
+spring:
+  application:
+    name: real-time-monitoring-relay
+
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 202.115.52.99:8848  #配置nacos地址
+
+

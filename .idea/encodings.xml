@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/common-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/detection-sidecar-python9050/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/detection-sidecar-python9050/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/detection-sidecar-python9051/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/detection-sidecar-python9051/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/picture-detection9071/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/picture-detection9071/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/real-time-monitoring9070/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/real-time-monitoring9070/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
